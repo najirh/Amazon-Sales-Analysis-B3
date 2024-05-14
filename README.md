@@ -1,4 +1,6 @@
 # Amazon Sales Analysis Project
+![](https://github.com/najirh/Amazon-Sales-Analysis-B3/blob/main/Amazon_B4Q1.png)
+
 ![Banner Image](insert_banner_image_link_here)
 Welcome to the Amazon Sales Analysis project! In this project, we delve into analyzing sales
 data from Amazon to extract insights and trends that can help optimize sales strategies,
