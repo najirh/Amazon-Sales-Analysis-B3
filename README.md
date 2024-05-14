@@ -1,4 +1,4 @@
-Amazon Sales Analysis Project
+# Amazon Sales Analysis Project
 ![](https://github.com/najirh/Amazon-Sales-Analysis-B3/blob/main/Amazon_B4Q1.png)
 
 ![Banner Image](insert_banner_image_link_here)
